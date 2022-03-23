@@ -1,4 +1,5 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Qamil Kacmoli
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Qamil Kacmoli
+### My <img src="https://img.shields.io/badge/Moto%20is-Symbiosis%20by%20Mutualism%20-yellowgreen"> 
 
 
 
