@@ -9,4 +9,5 @@
 - 📫 How to reach me: <img alt="GitHub followers" src="https://img.shields.io/github/followers/QK336170?style=social"> or <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/lkacmoli94?color=red&style=social">
 - 😄 Pronouns: ...
 - ⚡ Fun fact: If you talk too much but don't know anything, i will [^\w]+
+- Link for task 1, FRONTEND: https://qk336170.github.io/web/index.html
 
