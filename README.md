@@ -6,7 +6,7 @@
 - 🌱 I’m currently researching malware deobfuscation & quantum cryptography.
 - 👯 I’m looking to collaborate on anything which includes the term malware/quantics. 
 - 🤔 I’m looking for help with making the world a better place.
-- 📫 How to reach me: lkacmoli94@gmail.com
+- 📫 How to reach me: lkacmoli94@gmail.com or <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/lkacmoli94?color=red&style=for-the-badge">
 - 😄 Pronouns: ...
 - ⚡ Fun fact: If you talk too much but don't know anything, i will "[^\w]+" 
 
