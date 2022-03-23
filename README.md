@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Qamil Kacmoli
 
 
 
@@ -8,5 +8,5 @@
 - 🤔 I’m looking for help with making the world a better place.
 - 📫 How to reach me: lkacmoli94@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: If you talk too much but don't know anything, i will [^\w]+ 
+- ⚡ Fun fact: If you talk too much but don't know anything, i will "[^\w]+" 
 
